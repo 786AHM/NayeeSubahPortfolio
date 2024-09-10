@@ -21,7 +21,7 @@ const Header = () => {
     return (
 
         <header>
-            <h1></h1>
+            <h1>YOUR's</h1>
 
             <div className='navitems'>
                 {headerData.map((item, index) => {
