@@ -53,13 +53,13 @@ const HeroSection = () => {
         <div className='herosection-name-container-top'>
 
           <div className='name-part'>
-            <h1>Hassan Ali.</h1>
+            <h1>Hassan.</h1>
             <span><GiHand /></span>
           </div>
 
 
           <h2>Frontend Developer</h2>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis est sequi, deleniti optio exercitationem, magni repellat totam rerum perspiciatis porro et tempora autem repudiandae iusto? Suscipit nesciunt illum consectetur quibusdam?</p>
+          <p>Lorem ipsum,  sit amet consectetur adipisicing elit. Reiciendis est sequi, deleniti optio exercitationem, magni repellat totam rerum perspiciatis porro et tempora autem repudiandae iusto? Suscipit nesciunt illum consectetur quibusdam?</p>
         </div>
 
         <Buttons btnTitle={"Say Hello"} btnIcon={<FaTelegramPlane />} />

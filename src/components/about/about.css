@@ -57,6 +57,10 @@
         cursor: pointer;    
     }
 
+    &:hover span{
+        color: rgb(41, 41, 41);
+    }
+
   
 
 
